@@ -6,7 +6,7 @@ import java.math.BigDecimal;
  * Created by nexxie on 25.12.2016.
  */
 public class Account {
-
+//
 
     private double amount;
     private int id;

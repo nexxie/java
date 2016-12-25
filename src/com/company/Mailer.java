@@ -3,6 +3,7 @@ package com.company;
 /**
  * Created by nexxie on 25.12.2016.
  */
+//
 import java.util.concurrent.TimeUnit;
 
 public class Mailer implements Runnable{
