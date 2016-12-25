@@ -1,7 +1,7 @@
 package com.company;
 
 import java.math.BigDecimal;
-
+//
 /**
  * Created by nexxie on 25.12.2016.
  */
